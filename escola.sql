@@ -1,6 +1,6 @@
--- =======================================
--- SCRIPT DE CRIAÇÃO DO BANCO DE DADOS "escola"
--- =======================================
+-- ========================================
+-- SCRIPT  DE  CRIAÇÃO DO BANCO DE DADOS "escola"
+-- ========================================
 
 -- Remove o banco de dados caso ele já exista (para testes repetidos)
 DROP DATABASE IF EXISTS escola;
